@@ -1,0 +1,2509 @@
+{
+  "name": "Chương Trình Giải Trí Tổng Hợp",
+  "author": "thanh51 - Path gg.gg/g9jv7",
+  "image": "https://yt3.ggpht.com/a/AATXAJzixioGfjQgc5T6VQtFYee8jNBd54GmVJ_ZgA=s288-c-k-c0xffffffff-no-rj-mo",
+  "url": "http://w3ubin.com/jMnf-yun.w3u",
+  "groups": [
+    {
+      "name": "Bóng Đá",
+      "image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
+      "imageScale": "centerCrop",
+      "groups": [
+        {
+          "name": "WEB xem Bóng đá",
+          "image": "https://www.iptv4sat.com/wp-content/uploads/sport-1-696x693.jpg",
+          "stations": [
+            {
+              "image": "https://image-2.gapo.vn/images/919a4daf-b3fc-4d6d-9a8b-c9ac80d33a32.jpeg",
+              "name": "90pTV",
+              "url": "https://bit.ly/tiengruoi",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "rakhoiTV",
+              "image": "https://rakhoi-tv.com/wp-content/uploads/2021/12/rakhoiTVremake.png",
+              "url": "https://rakhoi.tv/xem-tat-ca.html",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "mitomTV",
+              "image": "https://cdn.bongdadem.net/2021/02/logo-mitom.png",
+              "url": "http://www.mitomm.tv/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "image": "http://cdn.livetv481.me/img/sport/1.gif",
+              "name": "Football theo giờ GMT",
+              "url": "http://livetv.sx/enx/allupcomingsports/1/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            }
+          ]
+        },
+        {
+          "name": "Xem Lại Đầy Đủ Bóng Đá Bình Luận Tiếng Việt",
+          "image": "https://yt3.ggpht.com/ytc/AAUvwnjdvxKyQo1FwfRH8yw9FCApVvJIU6prVC4jYMqH=s900-c-k-c0x00ffffff-no-rj",
+          "stations": [
+            {
+              "name": "Xem Lại Đầy Đủ Bóng Đá Bình Luận Tiếng Việt",
+              "info": "Rê chuột trên thanh trượt thời gian để bỏ qua quảng cáo",
+              "image": "https://yt3.ggpht.com/ytc/AAUvwnjdvxKyQo1FwfRH8yw9FCApVvJIU6prVC4jYMqH=s900-c-k-c0x00ffffff-no-rj",
+              "url": "https://pastebin.com/raw/3SthAVhJ#.m3u",
+              "userAgent": "exoplayer_video",
+              "isHost": true
+            }
+          ]
+        },
+        {
+          "name": "Xem Lại Bóng Đá Quốc Tế",
+          "image": "https://cdnmedia.baotintuc.vn/Upload/EqV5H9rWgvy9oNikwkHLXA/files/2021/10/16102021-lich-thi-dau-4.jpg",
+          "stations": [
+            {
+              "name": "Giải Ngoại Hạng Anh (Premier League 2020/2021)",
+              "image": "https://i.imgur.com/ZqPjbbc.jpg",
+              "url": "https://fullmatchsports.co/full-match-replay/epl-2020-2021-full-match/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "Giải Ngoại Hạng Tây Ban Nha (LaLiga 2020/2021)",
+              "image": "http://i.imgur.com/ua1PgFH.jpg",
+              "url": "https://fullmatchsports.co/full-match-replay/la-liga-2020-2021-full-match/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "Giải Ngoại Hạng Italya (Serie A 2020/2021)",
+              "image": "https://i.imgur.com/3hUAGa6.jpg",
+              "url": "https://fullmatchsports.co/full-match-replay/serie-a-2020-2021-full-match/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "Giải Ngoại Hạng Đức (Bundesliga 2020/2021)",
+              "image": "https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png",
+              "url": "https://fullmatchsports.co/full-match-replay/bundesliga-2020-2021-full-match/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "Giải Ngoại Hạng Pháp (Ligue 1 2020/2021)",
+              "image": "https://i.imgur.com/cQcceA9.jpg",
+              "url": "https://fullmatchsports.co/full-match-replay/ligue-1-2020-2021-full-match/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "Vòng loại WC Châu Âu (World Cup 2022)",
+              "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",
+              "url": "https://fullmatchsports.co/full-match-replay/world-cup-2022-full-match-replay/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "Champions League 2020/2021",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/UEFA_Champions_League_logo.png",
+              "url": "https://fullmatchsports.co/full-match-replay/champions-league-2020-2021-full-match/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "Europa League 2020/2021",
+              "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/0/03/Europa_League.svg/1200px-Europa_League.svg.png",
+              "url": "https://fullmatchsports.co/full-match-replay/europa-league-2020-2021-full-match/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "name": "Euro 2020",
+              "image": "https://cdnmedia.thethaovanhoa.vn/Upload/v0CAbBE1fkcCzK94ar4Q/files/2021/06/01/e2020660.jpg",
+              "url": "https://en.fullmatchsports.co/full-match-replay/euro-2020-full-match-replay/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "image": "http://cdn.livetv433.me/img/tables/493.gif",
+              "name": "Copa America 2021",
+              "url": "https://en.fullmatchsports.co/full-match-replay/copa-america-2021-full-match-replay/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Live Sports VietNam",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/200x200bb.jpg",
+      "stations": [
+        {
+          "name": "VTV3 HD",
+          "url": "https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8",
+          "image": "https://i.imgur.com/o6SxT3q.png"
+        },
+        {
+          "name": "VTV5 HD",
+          "url": "https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8",
+          "image": "https://i.imgur.com/VBErOd8.png"
+        },
+        {
+          "name": "VTV6 HD",
+          "url": "https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8",
+          "image": "https://img.hplus.com.vn/728x409/banner/2018/09/11/685332-vtv6.png"
+        },
+        {
+          "image": "https://mytv.com.vn/upload/channel/36.png",
+          "name": "VTVcab3 - TheThaoTV",
+          "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8",
+          "referer": "http://sctvonline.vn",
+          "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+        },
+        {
+          "image": "https://mytv.com.vn/upload/channel/php4Mg7Gc_5dae85cdd6653.png",
+          "name": "VTVcab16 - BongDaTV",
+          "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd1/index.m3u8",
+          "referer": "http://sctvonline.vn",
+          "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+        },
+        {
+          "image": "https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",
+          "name": "VTVcab6 - On Sports +",
+          "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8",
+          "referer": "http://sctvonline.vn",
+          "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+        },
+        {             
+          "name": "VTC3 HD",
+          "url": "https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8",
+          "image": "https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg"
+        },
+        {
+          "name": "HTV7 HD",
+          "url": "https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8",
+          "image": "https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/H7_M.jpg"
+        },
+        {
+          "name": "HTV9 HD",
+          "url": "https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8",
+          "image": "https://assets-vtvcab.gviet.vn/images/hq/posters/htv91.jpg"
+        },
+        {
+          "name": "HTV TheThao HD",
+          "url": "https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8",
+          "image": "https://mytv.com.vn/upload/channel/15.png"
+        },
+        {
+         "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/15_f6a8241e.jpg",
+          "name": "SCTV15",
+          "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8",
+          "referer": "http://sctvonline.vn",
+          "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+        },
+        {
+          "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/17_03ba5e54.jpg",
+          "name": "SCTV17",
+          "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8",
+          "referer": "http://sctvonline.vn",
+          "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+        },
+        {
+          "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/22_881fabb7.jpg",
+          "name": "SCTV22",
+          "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8",
+          "referer": "http://sctvonline.vn",
+          "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+        },
+        {
+          "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/68_ad4ad421.jpg",
+          "name": "BTV5",
+          "url": "https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8",
+          "referer": "http://sctvonline.vn",
+          "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "name": "Live Sports",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/200x200bb.jpg",
+      "stations": [
+        {
+
+          "isHost": true,
+          "url": "https://cloudstream.to/e/kq2w71id",
+          "name": "Bein sport 1 Fr",
+          "info": "",
+          "image": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png",
+          "referer": "https://leet365.cc/fr/3/1",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C1290.api.telerama.fr"
+        },
+        {
+          "isHost": false,
+          "url": "https://rebrand.ly/b/e/i/n/s/p/o/r/t/s/1/f/h/d",
+          "name": "Bein sport 1 HD Fr",
+          "info": "",
+          "image": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png",
+          "referer": "",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C1290.api.telerama.fr"
+        },
+        {
+          "isHost": true,
+          "url": "https://cloudstream.to/e/b8c220941xkgu",
+          "name": "Bein sport 2 Fr",
+          "info": "",
+          "image": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png",
+          "referer": "https://leet365.cc/fr/3/2",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C1304.api.telerama.fr"
+        },
+        {
+          "isHost": false,
+          "url": "https://rebrand.ly/b/e/i/n/s/p/o/r/t/s/2/f/h/d",
+          "name": "Bein sport 2 HD Fr",
+          "info": "",
+          "image": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png",
+          "referer": "",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C1304.api.telerama.fr"
+        },
+        {
+          "isHost": true,
+          "url": "https://cloudstream.to/e/3j14abyh",
+          "name": "Bein sport 3 Fr",
+          "info": "",
+          "image": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png",
+          "referer": "https://leet365.cc/fr/3/3",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C1335.api.telerama.fr"
+        },
+        {
+          "isHost": false,
+          "url": "https://rebrand.ly/b/e/i/n/s/p/o/r/t/s/3/f/h/d",
+          "name": "Bein sport 3 HD Fr",
+          "info": "",
+          "image": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png",
+          "referer": "",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C1335.api.telerama.fr"
+        },
+        {
+           "isHost": true,
+          "url": "https://cloudstream.to/e/wt0wjdtqzz2dg",
+          "name": "RMC Sport 1 Fr",
+          "info": "",
+          "image": "https://cdn.tv-programme.com/pic/chaines/130.png",
+          "referer": "https://leet365.cc/fr/3/4",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C2029.api.telerama.fr"
+        },
+        {
+          "isHost": false,
+          "url": "https://rebrand.ly/r/m/c/s/p/o/r/t/1/f/h/d",
+          "name": "RMC Sport 1 HD Fr",
+          "info": "",
+          "image": "https://cdn.tv-programme.com/pic/chaines/130.png",
+          "referer": "",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C2029.api.telerama.fr"
+        },
+        {
+          "isHost": true,
+          "url": "https://cloudstream.to/e/9l7cuero7ljr",
+          "name": "RMC Sport 2 Fr",
+          "info": "",
+          "image": "https://cdn.tv-programme.com/pic/chaines/131.png",
+          "referer": "https://leet365.cc/fr/3/9",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C675.api.telerama.fr"
+        },
+        {
+          "isHost": false,
+          "url": "https://rebrand.ly/r/m/c/s/p/o/r/t/2/f/h/d",
+          "name": "RMC Sport 2 HD Fr",
+          "info": "",
+          "image": "https://cdn.tv-programme.com/pic/chaines/131.png",
+          "referer": "",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C675.api.telerama.fr"
+        },
+        {            
+           "isHost": true,
+          "url": "https://cloudstream.to/e/pa1j3d",
+          "name": "Canal + Fr",
+          "info": "",
+          "image": "https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/34.png",
+          "referer": "https://leet365.cc/fr/3/5",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C34.api.telerama.fr"
+        },
+        {
+          "isHost": false,
+          "url": "https://rebrand.ly/c/a/n/a/l/p/l/u/s/f/h/d",
+          "name": "Canal + HD Fr",
+          "info": "",
+          "image": "https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/34.png",
+          "referer": "",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C34.api.telerama.fr"
+        },
+        {
+          "isHost": true,
+          "url": "https://cloudstream.to/e/tzl93n2vzitx",
+          "name": "Canal + Decale Fr",
+          "info": "",
+          "image": "https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/30.png",
+          "referer": "https://leet365.cc/fr/3/20",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C30.api.telerama.fr"
+        },
+        {
+          "isHost": false,
+          "url": "https://rebrand.ly/c/a/n/a/l/p/l/u/s/d/e/c/a/l/e/f/h/d",
+          "name": "Canal + Decale HD Fr",
+          "info": "",
+          "image": "https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/30.png",
+          "referer": "",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C30.api.telerama.fr"
+        },
+        {
+          "isHost": true,
+          "url": "https://cloudstream.to/e/1r20ueimwwp",
+          "name": "Canal + Sport Fr",
+          "info": "",
+          "image": "https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/35.png",
+          "referer": "https://leet365.cc/fr/3/6",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C35.api.telerama.fr"
+        },
+        {
+          "isHost": false,
+          "url": "https://rebrand.ly/c/a/n/a/l/p/l/u/s/s/p/o/r/t/f/h/d",
+          "name": "Canal + Sport HD Fr",
+          "info": "",
+          "image": "https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/35.png",
+          "referer": "",
+          "userAgent": "Gecko/20100101",
+          "epgId": "C35.api.telerama.fr"           
+        },
+        {            
+          "image": "https://supersport.azureedge.net/web-assets/channels/hos/supersport-psl.png",
+          "name": "SuperSport PSL",
+          "url": "https://pepperlive.info/sport.php?id=1"
+        },
+        {
+          "image": "https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand-live.png",
+          "name": "SuperSport Grandstand",
+          "url": "https://pepperlive.info/sport.php?id=2"
+        },
+        {
+          "image": "https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png",
+          "name": "SuperSport Football",
+          "url": "https://pepperlive.info/sport.php?id=9"
+        },
+        {
+          "image": "https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png",
+          "name": "SuperSport Premier Leangue",
+          "url": "https://pepperlive.info/sport.php?id=10"
+        },
+        {
+          "image": "https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png",
+          "name": "SuperSport LaLiga",
+          "url": "http://pepperlive.info/sportp.php?id=11"
+        },
+        {
+          "image": "https://archive.org/download/BtSport1/bt%20sport%201.png",
+          "name": "BT Sport 1",
+          "url": "https://pepperlive.info/sport.php?id=25"                
+        },
+        {     
+          "image": "https://www.xn--72czp5emaz0ab6b.com/uploads/png/epl-bein1.png",
+          "name": "Bein sport 1 Thailand",
+          "url": "https://www.xn--72czp5emaz0ab6b.com/player/c/18/BEIN-SPORT-HD-1-18/37821.html"
+        },
+        {
+          "image": "https://www.xn--72czp5emaz0ab6b.com/uploads/png/epl-bein2.png",
+          "name": "Bein sport 2 Thailand",
+          "url": "https://www.xn--72czp5emaz0ab6b.com/player/c/19/BEIN-SPORT-HD-2-19/37823.html"
+        },
+        {
+          "image": "https://www.xn--72czp5emaz0ab6b.com/uploads/png/doomovie-epl1.png",
+          "name": "Premier Football HD1",
+          "url": "https://www.xn--72czp5emaz0ab6b.com/player/c/151/Premier-Football-HD-1-151/37937.html"
+        },
+        {
+          "image": "https://www.xn--72czp5emaz0ab6b.com/uploads/png/doomovie-epl2.png",
+          "name": "Premier Football HD2",
+          "url": "https://www.xn--72czp5emaz0ab6b.com/player/c/152/Premier-Football-HD-2-152/37939.html"
+        },
+        {
+          "image": "https://www.xn--72czp5emaz0ab6b.com/uploads/png/doomovie-epl3.png",
+          "name": "Premier Football HD3",
+          "url": "https://www.xn--72czp5emaz0ab6b.com/player/c/153/Premier-Football-HD-3-153/37941.html"
+        },
+        {
+          "image": "https://www.xn--72czp5emaz0ab6b.com/uploads/png/doomovie-epl4.png",
+          "name": "Premier Football HD4",
+          "url": "https://www.xn--72czp5emaz0ab6b.com/player/c/154/Premier-Football-HD-4-154/37943.html"
+        },
+        {
+          "image": "https://www.xn--72czp5emaz0ab6b.com/uploads/png/doomovie-epl5.png",
+          "name": "Premier Football HD5",
+          "url": "https://www.xn--72czp5emaz0ab6b.com/channel/155/Premier-Football-HD-5-155.html"
+        },
+        {
+          "image": "https://www.xn--72czp5emaz0ab6b.com/uploads/png/hd-tsport1.png",
+          "name": "TRUE SPORT HD1",
+          "url": "https://www.xn--72czp5emaz0ab6b.com/player/c/22/TRUE-SPORT-HD1-22/37825.html"
+        },
+        {
+          "image": "https://www.xn--72czp5emaz0ab6b.com/uploads/png/hd-tsport2.png",
+          "name": "TRUE SPORT HD2",
+          "url": "https://www.xn--72czp5emaz0ab6b.com/player/c/23/TRUE-SPORT-HD2-23/37829.html"
+        },
+        {
+          "image": "https://www.xn--72czp5emaz0ab6b.com/uploads/png/hd-tsport3.png",
+          "name": "TRUE SPORT HD3",
+          "url": "https://www.xn--72czp5emaz0ab6b.com/player/c/24/TRUE-SPORT-HD3-24/37830.html"            
+        },
+        {              
+          "name": "Матч Футбол 1 ",
+          "url": "https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0",
+          "referrer": "https://sport365hd.com",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU"
+        },
+        {
+          "name": "Матч Футбол 2",
+          "url": "https://95-213-224-169.livesports24.online/mfootball2rus.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0",
+          "referrer": "https://sport365hd.com",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU"
+        },
+        {
+          "name": "Матч Футбол 3",
+          "url": "https://95-213-224-169.livesports24.online/rumatchf3.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0",
+          "referrer": "https://sport365hd.com",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2j3D5nvgq2rgeXRxJDoGl64r7NTmglkBJA&usqp=CAU"
+        },
+        {
+          "name": "Матч !",
+          "url": "https://95-213-224-169.livesports24.online/ooomatch.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0",
+          "referrer": "https://sport365hd.com",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/220px-MatchTV_Logo.svg.png"
+        },
+        {
+          "name": "Футбол 1",
+          "url": "https://95-213-224-169.livesports24.online/uafootballua1.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0",
+          "referrer": "https://sport365hd.com",
+          "image": "http://iptv-work.at.ua/3/343.jpg"
+        },
+        {
+          "name": "Футбол 2",
+          "url": "https://95-213-224-169.livesports24.online/fooootball2.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0",
+          "referrer": "https://sport365hd.com",
+          "image": "http://iptv-work.at.ua/3/343.jpg"
+        },
+        {
+          "name": "Футбол 3",
+          "url": "https://95-213-224-169.livesports24.online/football3ua.m3u8",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0",
+          "referrer": "https://sport365hd.com",
+          "image": "http://iptv-work.at.ua/3/343.jpg"             
+        }
+      ]
+    },
+    {
+      "name": "Kênh Phát Thanh Truyền Hình",
+      "image": "https://tuyengiao.vn/Uploads2010/hoangthuhang/Nam%202011/Thang%205%202011/trhpt.jpg",
+      "imageScale": "centerCrop",
+      "groups": [
+        {
+          "name": "Kênh VTV",
+          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "stations": [
+            {
+              "image": "https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",
+              "name": "VTV1",
+              "url": "https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",
+              "name": "VTV2",
+              "url": "https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png",
+              "name": "VTV3",
+              "url": "https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575",
+              "name": "VTV4",
+              "url": "https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635",
+              "name": "VTV5",
+              "url": "https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png",
+              "name": "VTV6",
+              "url": "https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934",
+              "name": "VTV7",
+              "url": "https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092",
+              "name": "VTV8",
+              "url": "https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164",
+              "name": "VTV9",
+              "url": "https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            }
+          ]
+        },
+        {
+          "name": "Kênh VTVcab",
+          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "stations": [
+            {
+              "image": "https://mytv.com.vn/upload/channel/97.png",
+              "name": "VTVcab1 - Giải Trí",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/98.png",
+              "name": "VTVcab2 - Phim Việt",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/36.png",
+              "name": "VTVcab3 - TheThaoTV",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/194.png",
+              "name": "VTVcab4 - Văn Hóa",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/100.png",
+              "name": "VTVcab5",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://assets-vtvcab.gviet.vn/images/hq/posters/Icon_355x2003.jpg",
+              "name": "VTVcab6 - On Sports +",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/phprtQ6hB_5dae811aae9cd.png",
+              "name": "VTVcab7 - O2 TV",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/102.png",
+              "name": "VTVcab8 - Bibi TV",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/195.png",
+              "name": "VTVcab9 - Info TV",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/phpehBSp4_60a6127162d07.png",
+              "name": "VTVcab10 - Film TV",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/103.png",
+              "name": "VTVcab12 - Style TV",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/phpKbpOAa_5d429d8e79e56.jpg",
+              "name": "VTVcab15 - UM channel",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/php4Mg7Gc_5dae85cdd6653.png",
+              "name": "VTVcab16 - BongDaTV",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/104.png",
+              "name": "VTVcab17 - Yeah1 TV",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/php3VO8ig_60a612a082b23.png",
+              "name": "VTVcab19 - Vie Dramas",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/132.png",
+              "name": "VTVcab20 - V Family",
+              "url": "https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            }
+          ]
+        },
+        {
+          "name": "Kênh VTC",
+          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "stations": [
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png",
+              "name": "VTC1",
+              "url": "https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1200px-VTC2_logo_2018.svg.png",
+              "name": "VTC2",
+              "url": "https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/340?cb=20201207142820&path-prefix=vi",
+              "name": "VTC3",
+              "url": "https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/d/dd/VTC4_2018-2020.png/revision/latest/scale-to-width-down/340?cb=20201212065736&path-prefix=vi",
+              "name": "VTC4",
+              "url": "https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logopedia/images/0/0e/VTC5_2018.png/revision/latest/scale-to-width-down/340?cb=20200821143114",
+              "name": "VTC5",
+              "url": "https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/1024px-VTC6_logo_2018.svg.png",
+              "name": "VTC6",
+              "url": "https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/4/4c/VTC7_logo.png/revision/latest/scale-to-width-down/340?cb=20201125094038&path-prefix=vi",
+              "name": "VTC7",
+              "url": "https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VTC8_logo_2018.svg/768px-VTC8_logo_2018.svg.png",
+              "name": "VTC8",
+              "url": "https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/1200px-VTC9_logo_2018.svg.png",
+              "name": "VTC9",
+              "url": "https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/1200px-VTC10_logo_2018.svg.png",
+              "name": "VTC10",
+              "url": "https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/1200px-VTC11_logo_2018.svg.png",
+              "name": "VTC11",
+              "url": "https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/d/db/VTC12_Grey.png/revision/latest/scale-to-width-down/340?cb=20200904024746&path-prefix=vi",
+              "name": "VTC12",
+              "url": "https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/340?cb=20201125133758&path-prefix=vi",
+              "name": "VTC13",
+              "url": "https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/1020px-VTC14_logo_2018.svg.png",
+              "name": "VTC14",
+              "url": "https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/1200px-VTC16_logo_2018.svg.png",
+              "name": "VTC16",
+              "url": "https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            }
+          ]
+        },
+        {
+          "name": "Kênh HTV",
+          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "stations": [
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Large_htv1.png",
+              "name": "HTV1",
+              "url": "https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/1/1c/Logo_HTV2_%282008-2009%29.png/revision/latest/scale-to-width-down/340?cb=20181201104829&path-prefix=vi",
+              "name": "HTV2",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/e/ee/DreamsTV_logo_%282018-present%29.png/revision/latest?cb=20180824082826&path-prefix=vi",
+              "name": "HTV3",
+              "url": "https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/6/6d/HTV4_HTV_Key.png/revision/latest/scale-to-width-down/340?cb=20201012040751&path-prefix=vi",
+              "name": "HTV4 Key",
+              "url": "https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/c/c6/HTV7_%282016-nay%29.png/revision/latest/scale-to-width-down/340?cb=20200608060620&path-prefix=vi",
+              "name": "HTV7",
+              "url": "https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/d/df/HTV9_%282016-nay%29.png/revision/latest/scale-to-width-down/340?cb=20200608060619&path-prefix=vi",
+              "name": "HTV9",
+              "url": "https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/2/29/HTVC_Film_logo.png/revision/latest/scale-to-width-down/200?cb=20210629030316&path-prefix=vi",
+              "name": "HTVC Phim",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/d/df/HTVC_Ca_Nh%E1%BA%A1c_old.png/revision/latest?cb=20210131022321&path-prefix=vi",
+              "name": "HTVC Ca Nhạc",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://assets-vtvcab.gviet.vn/images/logos/HC8_M.png",
+              "name": "HTVC Du Lịch & Cuộc Sống",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/8/8b/HTVC_Gia_%C4%90%C3%ACnh_logo_2018.png/revision/latest/scale-to-width-down/205?cb=20210625041805&path-prefix=vi",
+              "name": "HTVC Gia Đình",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",
+              "name": "HTVC Phụ Nữ",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png",
+              "name": "HTVC Thuần Việt SD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/d/de/HTVC_Vietnamese_HD.png/revision/latest?cb=20210131021250&path-prefix=vi",
+              "name": "HTVC Thuần Việt HD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png",
+              "name": "HTVC FBNC",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logos/images/3/34/HTV_Th%E1%BB%83_Thao_logo.png/revision/latest/scale-to-width-down/340?cb=20190725224504&path-prefix=vi",
+              "name": "HTV Thể Thao",
+              "url": "https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "http://imageidc1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png",
+              "name": "HTVC Plus",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png",
+              "name": "HTVC VGS Shopping",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",
+              "name": "HTV Co.op",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            }
+          ]
+        },
+        {
+          "name": "Kênh SCTV",
+          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "stations": [
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/1_cc823220.jpg",
+              "name": "SCTV1",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/2_fd5dc799.jpg",
+              "name": "SCTV2",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/3_efafd3ec.jpg",
+              "name": "SCTV3",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/4_23b344ec.jpg",
+              "name": "SCTV4",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/5_4efd92d7.jpg",
+              "name": "SCTV5",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_132935f2.jpg",
+              "name": "SCTV6",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_15259bbf.jpg",
+              "name": "SCTV7",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/8_efcc1082.jpg",
+              "name": "SCTV8",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/9_2e957ae2.jpg",
+              "name": "SCTV9",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_dd39c053.jpg",
+              "name": "SCTV10",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/11_18513b6b.jpg",
+              "name": "SCTV11",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/12_c58b7453.jpg",
+              "name": "SCTV12",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/13_29828548.jpg",
+              "name": "SCTV13",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/14_614545db.jpg",
+              "name": "SCTV14",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/15_f6a8241e.jpg",
+              "name": "SCTV15",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/16_47eb3436.jpg",
+              "name": "SCTV16",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/17_03ba5e54.jpg",
+              "name": "SCTV17",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/18_664a253b.jpg",
+              "name": "SCTV18",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/19_3b86f52a.jpg",
+              "name": "SCTV19",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/20_6c70556d.jpg",
+              "name": "SCTV20",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/21_8f6788be.jpg",
+              "name": "SCTV21",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/22_881fabb7.jpg",
+              "name": "SCTV22",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/82_51400b18.jpg",
+              "name": "SCTV Phim TH",
+              "url": "https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            },
+            {
+              "image": "https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/68_ad4ad421.jpg",
+              "name": "BTV5",
+              "url": "https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8",
+              "referer": "http://sctvonline.vn",
+              "userAgent": "Chrome/90.0.4430.230 Safari/537.36"
+            }
+          ]
+        },
+        {
+          "name": "Kênh Quốc Tế",
+          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "stations": [
+            {
+              "image": "https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142",
+              "name": "HBO",
+              "url": "http://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+              "name": "Cinemax",
+              "url": "http://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png",
+              "name": "Warner",
+              "url": "http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",
+              "name": "AXN",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",
+              "name": "Cinema World",
+              "url": "https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",
+              "name": "KIX",
+              "url": "https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",
+              "name": "Animax",
+              "url": "https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",
+              "name": "BBC Cbeebies",
+              "url": "https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",
+              "name": "Baby First",
+              "url": "https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logopedia/images/6/68/Boomerang_2000_Alt_2.svg/revision/latest/top-crop/width/300/height/300?cb=20160522194334",
+              "name": "Boomerang",
+              "url": "https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",
+              "name": "Cartoon Network",
+              "url": "https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",
+              "name": "National Geographic",
+              "url": "https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",
+              "name": "Nat Geo WILD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",
+              "name": "Discovery Channel",
+              "url": "https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",
+              "name": "Discovery Asia",
+              "url": "http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",
+              "name": "BBC Earth",
+              "url": "http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1583125607/cmc_new/img.live_channel/0/0/0/0/254.jpg",
+              "name": "Planet Earth",
+              "url": "https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8",
+              "referer": "http://sctvonline.vn"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",
+              "name": "Animal Planet",
+              "url": "http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://imgur.com/uWdY6xI.png",
+              "name": "History HD",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {                
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png",
+              "name": "TLC",
+              "url": "https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",
+              "name": "Outdoor Channel",
+              "url": "https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",
+              "name": "Da Vinci",
+              "url": "https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://telegramchannels.me/storage/media-logo/1901/bbc_lifestyle.jpg",
+              "name": "BBC Lifestyle",
+              "url": "https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",
+              "name": "Blue Ant Entertainment",
+              "url": "https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",
+              "name": "Blue Ant Extreme",
+              "url": "https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",
+              "name": "Asian Food Network",
+              "url": "https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png",
+              "name": "FOX Life",
+              "url": "https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1200px-BBC_World_News_2019.svg.png",
+              "name": "BBC World News",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",
+              "name": "CNN",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.megavie.live/media/bloomberg.png",
+              "name": "Bloomberg TV",
+              "url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png",
+              "name": "France 24",
+              "url": "http://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s900-c-k-c0x00ffffff-no-rj",
+              "name": "DW News",
+              "url": "http://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",
+              "name": "Ariang",
+              "url": "https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",
+              "name": "KBS World",
+              "url": "https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",
+              "name": "NHK World",
+              "url": "https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://logodix.com/logo/1040606.png",
+              "name": "ABC Australia",
+              "url": "https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://seeklogo.com/images/T/tv5-logo-D6C5E4DA52-seeklogo.com.png",
+              "name": "TV5 Monde Asie",
+              "url": "https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/892px-Channel_V_Logo.svg.png",
+              "name": "Channel [V]",
+              "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",
+              "name": "Fashion TV",
+              "url": "http://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8",
+              "userAgent": "D3n1s"
+             }
+          ]
+        },
+        {
+          "name": "Kênh Địa Phương",
+          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "stations": [
+            {
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png",
+              "name": "An Giang",
+              "url": "https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg",
+              "name": "Bà Rịa Vũng Tàu",
+              "url": "https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/20.jpg",
+              "name": "Bắc Giang",
+              "url": "https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/19.jpg",
+              "name": "Bạc Liêu",
+              "url": "https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/192.jpg",
+              "name": "Bắc Ninh",
+              "url": "https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544502354/cmc_new/img.live_channel/0/0/0/0/193.jpg",
+              "name": "Bến Tre",
+              "url": "https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/25.jpg",
+              "name": "Bình Định",
+              "url": "https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544501517/cmc_new/img.live_channel/0/0/0/0/136.jpg",
+              "name": "Bình Dương1",
+              "url": "https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1570670399/cmc_new/img.live_channel/0/0/0/0/135.jpg",
+              "name": "Bình Dương2",
+              "url": "https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "http://xemtv.co/image/binhduong4.png",
+              "name": "BTV4 iMOVIE TV",
+              "url": "https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/931.png",
+              "name": "Bình Phước1",
+              "url": "https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/931.png",
+              "name": "Bình Phước2",
+              "url": "https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/27.jpg",
+              "name": "Bình Thuận",
+              "url": "https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://mytv.com.vn/upload/channel/111.png",
+              "name": "Cao Bằng",
+              "url": "https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmQz0XA2fyYCNpf-xJwY2RxDCOQLrfEMeX9Q&usqp=CAU",
+              "name": "Cà Mau",
+              "url": "https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544502088/cmc_new/img.live_channel/0/0/0/0/30.jpg",
+              "name": "Cần Thơ",
+              "url": "https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "http://img.hplus.com.vn/355x200/poster/2018/06/05/709843-DN1.png",
+              "name": "Đà Nẵng1",
+              "url": "https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "http://img.hplus.com.vn/355x200/poster/2018/06/05/861526-DN2.png",
+              "name": "Đà Nẵng2",
+              "url": "https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544501466/cmc_new/img.live_channel/0/0/0/0/40.jpg",
+              "name": "Đắk Lắk",
+              "url": "https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1587697242/cmc_new/img.live_channel/0/0/0/0/39.jpg",
+              "name": "Điện Biên",
+              "url": "https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/195.jpg",
+              "name": "Đồng Nai1",
+              "url": "https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/196.jpg",
+              "name": "Đồng Nai2",
+              "url": "https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1546682447/cmc_new/img.live_channel/0/0/0/0/43.jpg",
+              "name": "Đồng Tháp",
+              "url": "https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/197.jpg",
+              "name": "Gia Lai",
+              "url": "https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1559553793/cmc_new/img.live_channel/0/0/0/0/198.jpg",
+              "name": "Hà Giang",
+              "url": "https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/34.jpg",
+              "name": "Hà Nam",
+              "url": "https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564374852/cmc_new/img.live_channel/0/0/0/0/12.jpg",
+              "name": "Hà Nội 1",
+              "url": "https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564374837/cmc_new/img.live_channel/0/0/0/0/148.jpg",
+              "name": "Hà Nội 2",
+              "url": "https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/35.jpg",
+              "name": "Hà Tĩnh",
+              "url": "https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "http://img.hplus.com.vn/355x200/poster/2018/06/04/107651-KienGiang.png",
+              "name": "Kiên Giang",
+              "url": "https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/46.jpg",
+              "name": "Kon Tum",
+              "url": "https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/50.jpg",
+              "name": "Lâm Đồng",
+              "url": "https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/51.jpg",
+              "name": "Lạng Sơn",
+              "url": "https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/49.jpg",
+              "name": "Lào Cai",
+              "url": "https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/48.jpg",
+              "name": "Long An",
+              "url": "https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "http://img.hplus.com.vn/355x200/poster/2019/08/06/857648-ntv_nam_dinh.png",
+              "name": "Nam Định",
+              "url": "https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/53.jpg",
+              "name": "Nghệ An",
+              "url": "https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544501207/cmc_new/img.live_channel/0/0/0/0/54.jpg",
+              "name": "Ninh Bình",
+              "url": "https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/55.jpg",
+              "name": "Ninh Thuận",
+              "url": "https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/56.jpg",
+              "name": "Phú Thọ",
+              "url": "https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/147.jpg",
+              "name": "Phú Yên",
+              "url": "https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/57.jpg",
+              "name": "Quảng Bình",
+              "url": "https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/58.jpg",
+              "name": "Quảng Nam",
+              "url": "https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/59.jpg",
+              "name": "Quảng Ngãi",
+              "url": "https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/60.jpg",
+              "name": "Quảng Ninh1",
+              "url": "https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/22.jpg",
+              "name": "Quảng Ninh3",
+              "url": "https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/61.jpg",
+              "name": "Quảng Trị",
+              "url": "https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544502165/cmc_new/img.live_channel/0/0/0/0/62.jpg",
+              "name": "Sóc Trăng",
+              "url": "https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/63.jpg",
+              "name": "Sơn La",
+              "url": "https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/71.jpg",
+              "name": "Tây Ninh",
+              "url": "https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1597486151/cmc_new/img.live_channel/0/0/0/0/65.jpg",
+              "name": "Thái Bình",
+              "url": "https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/66.jpg",
+              "name": "Thái Nguyên",
+              "url": "https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1546682518/cmc_new/img.live_channel/0/0/0/0/64.jpg",
+              "name": "Thanh Hóa",
+              "url": "https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544501362/cmc_new/img.live_channel/0/0/0/0/67.jpg",
+              "name": "Thừa Thiên Huế",
+              "url": "https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1544502195/cmc_new/img.live_channel/0/0/0/0/68.jpg",
+              "name": "Tiền Giang",
+              "url": "https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1579490043/cmc_new/img.live_channel/0/0/0/0/69.jpg",
+              "name": "Trà Vinh",
+              "url": "https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1545704085/cmc_new/img.live_channel/0/0/0/0/70.jpg",
+              "name": "Tuyên Quang",
+              "url": "https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg",
+              "name": "Vĩnh Long 1 HD",
+              "url": "https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg",
+              "name": "Vĩnh Long 2 HD",
+              "url": "https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg",
+              "name": "Vĩnh Long 3 HD",
+              "url": "https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.thvli.vn/assets/thumbnail/2019/05/30/ww471q39_Logo-THVL4-HD.jpg",
+              "name": "Vĩnh Long 4 HD",
+              "url": "https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "http://img.hplus.com.vn/355x200/poster/2018/06/04/269136-VinhPhuc.png",
+              "name": "Vĩnh Phúc",
+              "url": "https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            },
+            {
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg",
+              "name": "Yên Bái",
+              "url": "https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8",
+              "userAgent": "D3n1s"
+            }
+          ]
+        },
+        {
+          "name": "PTTH Dành cho người Việt Nam ở nước ngoài",
+          "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
+          "stations": [
+            {
+              "name": "VTV1",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1011/vtv1",
+              "image": "https://img.hplus.com.vn/355x200/poster/2018/06/05/182139-VTV1.png"
+            },
+            {
+              "name": "VTV2",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1010/vtv2",
+              "image": "https://img.hplus.com.vn/355x200/banner/2015/02/25/864669-vtv-2.png"
+            },
+            {
+              "name": "VTV3",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1013/vtv3",
+              "image": "https://img.hplus.com.vn/355x200/poster/2019/08/15/940603-vtv3_new.png"
+            },
+            {
+              "name": "VTV4",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4",
+              "image": "https://img.hplus.com.vn/355x200/poster/2019/08/15/420501-vtv4_new.png"
+            },
+            {
+              "name": "VTC1 HD",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1007/vtc1",
+              "image": "https://img.hplus.com.vn/355x200/poster/2018/06/05/591875-VTC1HD.png"
+            },
+            {
+              "name": "VTC10",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1006/netviet",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png"
+            },
+            {
+              "name": "VTC16",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1018/vtc16",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png"
+            },
+            {
+              "name": "TTXVN",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1019/ttxvn",
+              "image": "https://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png"
+            },
+            {
+              "name": "Đồng Tháp",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1053/dong-thap",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg"
+            },
+            {
+              "name": "Đồng Nai1",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1042/dong-nai1",
+              "image": "https://img.hplus.com.vn/355x200/poster/2018/09/25/229604-DN1.png"
+            },
+            {
+              "name": "Hải Dương",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1054/hai-duong",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_145880941298.jpg"
+            },
+            {
+              "name": "Hà Nội",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1008/hn",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg"
+            },
+            {
+              "name": "Hải Phòng",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1041/hai-phong",
+              "image": "https://img.hplus.com.vn/355x200/poster/2019/07/17/821553-thp.png"
+            },
+            {
+              "name": "Hưng Yên",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1050/hung-yen",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_145880734258.jpg"
+            },
+            {
+              "name": "Nghệ An",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1056/nghe-an",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg"
+            },
+            {
+              "name": "Quảng Bình",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg"
+            },
+            {
+              "name": "Thái Bình",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1052/thai-binh",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg"
+            },
+            {
+              "name": "Thanh Hóa",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1055/thanh-hoa",
+              "image": "https://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg"
+            },
+            {
+              "name": "THVL1",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1031/thvl1",
+              "image": "https://img.hplus.com.vn/355x200/poster/2019/07/08/592943-THVL-1HD-460x260.png"
+            },
+            {
+              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
+              "name": "VOV1",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1014/vov1",
+              "isHost": true
+            },
+            {
+              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
+              "name": "VOV2",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1015/vov2",
+              "isHost": true
+            },
+            {
+              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
+              "name": "VOV3",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1016/vov3",
+              "isHost": true
+            },
+            {
+              "image": "https://cdn.webrad.io/images/countries/vietnam-logo_1200x630.png",
+              "name": "VOV5",
+              "url": "http://vn.tvnet.gov.vn/kenh-truyen-hinh/1017/vov5",
+              "isHost": true
+            }
+          ]
+        },
+        {
+          "name": "Kênh Phát thanh",
+          "image": "http://radiovietnamonline.com/img/favicon.png",
+          "stations": [
+            {
+              "image": "http://radiovietnamonline.com/img/favicon.png",
+              "name": "Radio Việt Nam",
+              "url": "http://www.radiovietnamonline.com/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Giải Trí Tổng Hợp",
+      "image": "https://gudlogo.com/wp-content/uploads/2019/04/logo-nganh-giai-tri-21.png",
+      "imageScale": "centerCrop",
+      "groups": [
+        {
+          "name": "Phim",
+          "image": "https://gudlogo.com/wp-content/uploads/2019/04/logo-nganh-giai-tri-21.png",
+          "stations": [
+            {
+              "name": "Li1 Movies",
+              "url": "https://www.youtube.com/channel/UCqJix4DsPtpofK7uFsIZC0A/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxI6SxpGCkPWgQw4XcASn36ol3BhXLlDgMHlg=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "A-Phim",
+              "url": "https://www.youtube.com/channel/UCCfXdwO2izIFPCGRXlwPyDA/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxXCvDt1Y0gegAxqAgmknv20gkPVZ55H8PVyw=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Welkin Star",
+              "url": "https://www.youtube.com/c/WelkinStar/featured",
+              "image": "https://yt3.ggpht.com/xPYIWj0f0cAnh8ws9J1bGCnAWuJwa1mrNepybLskrW0Oqst58a9JZ5vgwbPdAhUchXLND1iXbA=s88-c-k-c0x00ffffff-no-rj",
+              "embed": true
+            },
+            {
+              "name": "Phim Hay Việt Nam",
+              "url": "https://www.youtube.com/channel/UCnihWx76gHjykKYOhvP_v8A/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJwcfgJH10RKUXfAc-kud3SRG_zWhij6Uvu7iA=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Film 4K - Phim Kiếm Hiệp",
+              "url": "https://www.youtube.com/channel/UCMt6EuwwGclpgXtVTH7PK1w/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJwsA4t95vVJL9fMULnzQEAW6XJWbjuukbGeYA=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "iPhim - Phim Bất Hủ",
+              "url": "https://www.youtube.com/user/jufniek/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJx7y6PIQwi5L4OHAcfM7xHEzmsnq-3VO5n7Bw=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Vip Phim",
+              "image": "https://yt3.ggpht.com/a/AATXAJwwCeE6IV-pKUV3ImBWtKWwEpo2S_aksT6adFaz_A=s100-c-k-c0xffffffff-no-rj-mo",
+              "url": "https://www.youtube.com/c/VipPhimActionFilm/playlists",
+              "embed": "true"
+            },
+            {
+              "name": "PUBLIC MOVIE",
+              "url": "https://www.youtube.com/channel/UCPa5tlO_v1GAVWvfxuf1TAw/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJy_D0XDcFX2rLb11LL9U4FC9gNfLM45hWfzTg=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "OneTV",
+              "url": "https://www.youtube.com/channel/UCTGBpkQFCo0ixkj3EGFUVYg/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyrpclJ6kDtqLNUvR1jWFI6aTCzfhPvyF3GRA=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Phim Hay Điện Ảnh",
+              "url": "https://www.youtube.com/channel/UClfwS2zHXYQCzwGfp-Fiw6A/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJw--3Z4InuAhTmyZV1rY7r6fChGAcUL7wQW8w=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Phim HOT TK-L",
+              "url": "https://www.youtube.com/channel/UCtsrmo89ctjbtENanK40yTQ/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxf3dIU6lEx6fxeOnkpEFd-ZrAt4xYuxCV6DQ=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Yêu Phim",
+              "url": "https://www.youtube.com/channel/UCrWvm9jp07uNA47l9H0TfSA/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJx-zCvTRfO4WMunJk2RDUCuPjOg20Per_jw=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "TNK - PHIM KIẾM HIỆP",
+              "url": "https://www.youtube.com/channel/UC6S8I9hfC-n2fbzgUEpAIrg/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJy1LMfyPFBBu8bC4bUo4HSOA8C9S1krOfnuSA=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "TVB tiếng Việt",
+              "url": "https://www.youtube.com/channel/UCaQyfI2ViHt86Q2EpA-Op-w/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyj34JfHBK1AfI-HdvEdQdrEg9a86vkJRQQZXzu=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "PhimTV",
+              "url": "https://www.youtube.com/user/1traivstae/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJy-M9MNbbY9TpiOn-96uq_6N6N5pMFTCjKw-g=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Việt Kiều Phim",
+              "url": "https://www.youtube.com/c/VIETKIEUFILM/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxQ7HenBssl4vg60ivCJIKxdSjuVHAT291QEj3_NA=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Hài Việt",
+              "url": "https://www.youtube.com/channel/UCJtEP0GoT7Xndn3LZKrgVxA/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyeK82JueQAyqf73KaD4fOuptYUkUSs85Uf2A=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "image": "https://yt3.ggpht.com/a/AATXAJyfDtbxq1ycAeirhhEKu8YDgDn69eB2R8FZLdzoXg=s100-c-k-c0xffffffff-no-rj-mo",
+              "name": "Phim Mỹ (Western Movies)",
+              "url": "https://www.youtube.com/c/GrjngoWesternMovies/playlists",
+              "embed": "true"
+            }
+          ]
+        },
+        {
+          "name": "Nhạc",
+          "image": "https://gudlogo.com/wp-content/uploads/2019/04/logo-nganh-giai-tri-21.png",
+          "stations": [
+            {
+              "name": "X-PRO BOLERO",
+              "url": "https://www.youtube.com/channel/UCN6xQuF_K9yW96lKc_ubIKA/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxA-6OaNXXgTkF-8vH_N3XrFt_vpjl7UJg6SQ=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Nam Việt Trữ Tình",
+              "url": "https://www.youtube.com/channel/UCaPcemDgLgWlm-cc_lF0Vgw/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJzkS2eEsi0yBextxQqEwDHSrM5BN7MXOfYUXg=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Nhạc Trữ Tình Võ Hoàng Entertainment",
+              "url": "https://www.youtube.com/user/PHONGTHUVOHOANG/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJz2NTMOF0oLFO3bwbEU-1g2ffRu5R5RF0s5LA=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Nhạc Trữ Tình Chọn Lọc",
+              "url": "https://www.youtube.com/channel/UCi1vp8Gkj7x31-rnyqL_14w/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJzoCO_4fBjFLmlVL0-afs0ZlZrlJPsCJMgD7w=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Nhạc Vàng Trữ Tình",
+              "url": "https://www.youtube.com/channel/UC0Ujw9oEpuiB_c5roTEEsWg/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyjziCnq7YxpOVnl10meJTGxpwawiWRMPyoFQ=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Liveshow Nhạc Bolero",
+              "url": "https://www.youtube.com/channel/UCks39FmFGb9WI-Fawzxcn7Q/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxn4YGUMr3NR5CPt6K-t7o6X-1a4pyj8OUQmQ=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Nhịp Cầu Bolero",
+              "url": "https://www.youtube.com/channel/UCCgKB3CPS2EMKhrv-GzJ30w/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxcVuEu4PfnhR-IN4q9zcCbmSfOXIFE1lYiug=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": " Bolero Phòng Trà",
+              "url": "https://www.youtube.com/channel/UCaR81lGEeOmO_RH0uJdoT5A/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxYpGg_JDsfkblWMYJTkf7M8xZIxHCaS0-KPA=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Hải Ngoại Bolero",
+              "url": "https://www.youtube.com/user/swingcopters/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJy-cr-BxoBwjddfLif9t_8mdzs6rbNL4W-WyGiS=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Bài Hát Để Đời",
+              "url": "https://www.youtube.com/user/DongGiaoOfficial/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJzUbGDOX_EF5AYNwMAoAcXzYb2NVgbNE4tt8Q=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Giọng Ca Để Đời",
+              "url": "https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJz52FP7QsqM9C81PPIUC4csCO9KYAHpGj5FMQ=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Trung Tâm Thúy Nga",
+              "url": "https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyH0yVK7xs1wNLde3UZ-mCp928FmOWsgfWPvg=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Trung Tâm Asia",
+              "url": "https://www.youtube.com/user/TrungTamAsiaChannel/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJy7iiFWle3pXRD_5sFIKwoZ-2GCbOnE7PkDvQ=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "LossLess",
+              "url": "https://www.youtube.com/channel/UCWGY6MYZeTPo6EL7yOy5ZhA/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJy7vsc6bTmwMPeAc4_bs9kLZDSIjgJ7-n5J9A=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Nhạc Không Lời",
+              "url": "https://www.youtube.com/channel/UCGbi0x6h31Q4zi6__SODylQ/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxBcxVBWRdaayueKYKVeU9B3y9GQqHKMAT_mQ=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            }
+          ]
+        },
+        {
+          "name": "Thiếu Nhi",
+          "image": "https://gudlogo.com/wp-content/uploads/2019/04/logo-nganh-giai-tri-21.png",
+          "stations": [
+            {
+              "name": "Thiếu Nhi - BHMEDIA",
+              "url": "https://www.youtube.com/user/doctruyencotich/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyTxtj2BnZ2mYqIljpJY8KBFLHrO4Ucu4IN0A=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            }
+          ]
+        },
+        {
+          "name": "Thể Thao",
+          "image": "https://gudlogo.com/wp-content/uploads/2019/04/logo-nganh-giai-tri-21.png",
+          "stations": [
+            {
+              "name": "ON SPORTS",
+              "url": "https://www.youtube.com/c/ONSPORTSCHANNEL/featured",
+              "image": "https://yt3.ggpht.com/ytc/AKedOLR6UUelmYJrSp8Kyb-h1znZ01H2EXxj3AgNwd0iwQ=s88-c-k-c0x00ffffff-no-rj",
+              "embed": true
+            },
+            {
+              "name": "Bóng Đá 360",
+              "url": "https://www.youtube.com/c/B%C3%B3ng%C4%90%C3%A1360HD/playlists",
+              "image": "https://yt3.ggpht.com/ytc/AAUvwnjF-JnVoOEGCo-6HQ8V1QtDD1cAyXgJ1I2op9hn2Q=s88-c-k-c0x00ffffff-no-rj",
+              "embed": true
+            },
+            {
+              "name": "NEXT SPORTS",
+              "url": "https://www.youtube.com/user/todaytvchannel/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJwmoTm5_qV9OHvNVKJ1XjyNZzYszINM2FK07w=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "NEXT MEDIA",
+              "url": "https://www.youtube.com/channel/UCUgwNI4NiRUMOYXN00l-mbQ/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJwuG_pAJqlsd5KQH3kRqZt7O0X1EWhwAUAEqA=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": " Kplus Sports",
+              "url": "https://www.youtube.com/c/KplusSportsOfficial/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyN6HjEDZJBEEfosV_xJBzbG2r_VPyl5hFaykaG=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Football Highlights",
+              "url": "https://www.youtube.com/channel/UCD_KH52ppkKmz3bCBfubiDw/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJzNV47_gAw_b5w6PFMGelcFAhTsJVdwe_sQPA=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            }
+          ]
+        },
+        {
+          "name": "Sáng Tạo - Khám Phá",
+          "image": "https://gudlogo.com/wp-content/uploads/2019/04/logo-nganh-giai-tri-21.png",
+          "stations": [
+            {
+              "name": "Tinh Tế Việt Nam",
+              "url": "https://www.youtube.com/c/tinhte/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJyZlgji7uIFHI7c0gCfoSzjO4RG6oIErzOz7SIq=s100-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Kênh Sáng Tạo.COM",
+              "url": "https://www.youtube.com/channel/UCyhbCnDC6BWUdH8m-RUJHug/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJwmGfFkO-M8VIF9GgWIoXptDe6aNpfln_OEmg=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Ngô Đức Tài Vlog Tổng Hợp",
+              "url": "https://www.youtube.com/channel/UCvrWo-4gWgN4s_qUoEuwG2A/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxDEuOyrowvshPJJeGzBbHYJlQci8WlpaFnLw=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Love Nature",
+              "url": "https://www.youtube.com/user/oasishdchannel/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJybWBCv0WLC0EDHpl7cHlG7bu4U_bpdi0YCsA=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "KHÁM PHÁ THẾ GIỚI",
+              "url": "https://www.youtube.com/channel/UCGE6fdGyo_s83QyIn6oqHLA/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxGVK2MOImtDGanWfoJ-aZ3viXcHKeE6dHJJA=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Discovery",
+              "url": "https://www.youtube.com/user/DiscoveryNetworks/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJweyFU-f16ySK5MNbYKJu1RG7r0GxJt_VfrWQ=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "National Geographic",
+              "url": "https://www.youtube.com/user/NationalGeographic/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJw987IXRGYOLU1LfpBEaFQujkOHO6DBbR-a9A=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "BBC Earth",
+              "url": "https://www.youtube.com/user/BBCEarth/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJxNPDQszcI6Ojm2RhEcSleM4ZHtyTz7AbiCZg=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            },
+            {
+              "name": "Thư Viện Thiên Văn",
+              "url": "https://www.youtube.com/channel/UCGgHGWc9DKERMs3TeUH8Rmw/playlists",
+              "image": "https://yt3.ggpht.com/a/AATXAJz4Q7DB30U8rlXz-FGsprHsQ0GCn4ERtD21kA=s288-c-k-c0xffffffff-no-rj-mo",
+              "embed": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Movies Online",
+      "image": "https://cdn.dribbble.com/users/2264632/screenshots/6708631/final.gif",
+      "stations": [
+        {
+          "name": "tv360.vn",
+          "image": "https://kplus-website-production-cdn.azureedge.net/content/upload/1/ccd/logo-app-tv360.png",
+          "url": "http://tv360.vn/movies",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "https://fptplay.vn/images/logo.png",
+          "name": "FPTplay",
+          "url": "https://fptplay.vn/danh-muc/phim-le/5841452d17dc130a9ab827d4",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "http://static.hplus.com.vn/themes/front/images/logohtvc.png",
+          "name": "Hplus",
+          "url": "http://hplus.com.vn/phim-le",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "vtvgo.vn",
+          "image": "https://vtvgo.vn/public/images/logo.png",
+          "url": "https://vtvgo.vn/kho-video.html",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "embed": "true"
+        },
+        {
+          "name": "phim1080z.com",
+          "image": "https://phim1080z.com/assets/img/phim1080.png",
+          "url": "https://phim1080z.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fsharetv.com",
+          "image": "https://fsharetv.com/img/fsharetv.png",
+          "url": "https://fsharetv.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "tvhay.tv",
+          "image": "https://lh3.googleusercontent.com/hJg8ENyCvWIVpb-Mr_mL2aSZQKfVJawVCiYIjM1A25V0iew6_oiY2Qh2N45CDfON2RJF=w1200-h630-p-k-no-nu",
+          "url": "https://tvhay.tv/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "embed": "true"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Nc94UDT-JR4j_Rtk5hQUkzOxsBg5WUWPXD2p6CewF5YZBsvz&s",
+          "name": "phim.vkoolz.net",
+          "url": "https://phim.vkoolz.net/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "viethdz.net",
+          "image": "https://viethdz.net/assets/theme/uploads/logo-header.png",
+          "url": "https://viethdz.net/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "https://cdn.kenhvn2.com/img/logo-vn2/vn2.jpg",
+          "name": "phimvn2.net",
+          "url": "https://phimvn2.net/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "phimnhanhtv.vip",
+          "image": "http://img.phimnhanhtv.vip/themes/default/img/logo2.png",
+          "url": "http://phimnhanhtv.vip/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "phimnhua.com",
+          "image": "https://phimnhua.com/wp-content/themes/template/icon/logo_phimnhua.png",
+          "url": "https://phimnhua.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "bilutvs.net",
+          "image": "https://bilutvs.net/Theme/images/logo-bilutv-bold.png",
+          "url": "https://bilutvs.net/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "fancoiphim.net",
+          "image": "http://fancoiphim.net/images/IconFanCoiPhim.png",
+          "url": "http://fancoiphim.net/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "xemphimvui.com",
+          "image": "https://xemphimvui.com/statics/images/favicon2//apple-icon-57x57.png",
+          "url": "https://xemphimvui.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        }
+      ]
+    },
+    {
+      "name": "Giải Trí Tổng Hợp",
+      "image": "https://lambanner.com/wp-content/uploads/2017/10/lambanner-thiet-ke-banner-coccoc.jpg",
+      "stations": [
+        {
+          "name": "Phim Tổng Hợp",
+          "url": "https://coccoc.com/search?query=phim+thuy%E1%BA%BFt+minh&tbm=vid",
+          "image": "https://img.favpng.com/5/8/7/cinema-logo-png-favpng-AM4MdHjsWUuEMp2VFDXMJte1f.jpg",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Phim Lẻ",
+          "url": "https://coccoc.com/search?query=phim+L%E1%BA%BB+hd+thuy%E1%BA%BFt+minh&tbm=vid",
+          "image": "https://img.favpng.com/5/8/7/cinema-logo-png-favpng-AM4MdHjsWUuEMp2VFDXMJte1f.jpg",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Phim Bộ",
+          "url": "https://coccoc.com/search?query=phim+b%E1%BB%99+hd+thuy%E1%BA%BFt+minh&tbm=vid",
+          "image": "https://img.favpng.com/5/8/7/cinema-logo-png-favpng-AM4MdHjsWUuEMp2VFDXMJte1f.jpg",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "phim Võ Thuật",
+          "url": "https://coccoc.com/search?query=phim+v%C3%B5+thu%E1%BA%ADt+thuy%E1%BA%BFt+minh&tbm=vid",
+          "image": "https://img.favpng.com/5/8/7/cinema-logo-png-favpng-AM4MdHjsWUuEMp2VFDXMJte1f.jpg",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Phim Tình Cảm",
+          "url": "https://coccoc.com/search?query=phim+t%C3%ACnh+c%E1%BA%A3m+thuy%E1%BA%BFt+minh&tbm=vid",
+          "image": "https://img.favpng.com/5/8/7/cinema-logo-png-favpng-AM4MdHjsWUuEMp2VFDXMJte1f.jpg",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "A Phim",
+          "image": "https://img.favpng.com/5/8/7/cinema-logo-png-favpng-AM4MdHjsWUuEMp2VFDXMJte1f.jpg",
+          "url": "https://coccoc.com/search?query=a+phim&tbm=vid",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Phim HD",
+          "image": "https://img.favpng.com/5/8/7/cinema-logo-png-favpng-AM4MdHjsWUuEMp2VFDXMJte1f.jpg",
+          "url": "https://coccoc.com/search?query=phim+hd&tbm=vid",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Phim Chiến Tranh",
+          "image": "https://img.favpng.com/5/8/7/cinema-logo-png-favpng-AM4MdHjsWUuEMp2VFDXMJte1f.jpg",
+          "url": "https://coccoc.com/search?query=phim+chi%E1%BA%BFn+tranh&tbm=vid",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Người Ngoài Hành Tinh Thời Cổ Đại",
+          "url": "https://coccoc.com/search?query=ng%C6%B0%E1%BB%9Di+ngo%C3%A0i+h%C3%A0nh+tinh+th%E1%BB%9Di+c%E1%BB%95+%C4%91%E1%BA%A1i&tbm=vid",
+          "image": "http://image.phimmoi.net/film/2047/poster.medium.jpg",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Ca Sĩ Bí Ẩn",
+          "url": "https://coccoc.com/search?query=ca%20s%C4%A9%20b%C3%AD%20%E1%BA%A9n&tbm=vid",
+          "image": "https://yt3.ggpht.com/ytc/AAUvwnimzZQzB3nA7pCKa9siq981PY-ydAj9IFappOihqA=s48-c-k-c0xffffffff-no-rj-mo",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Trung Tâm Paris by night",
+          "url": "https://coccoc.com/search?query=paris+by+night&tbm=vid",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8ta07mfntb7myABy9P4XV1VvkseNT2b4zjk4iHEN6ukCC5-11Pr-DBDU-hLPpiPw28g&usqp=CAU",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Paris by night Full Program",
+          "url": "https://coccoc.com/search?query=paris+by+night+full+program&tbm=vid",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8ta07mfntb7myABy9P4XV1VvkseNT2b4zjk4iHEN6ukCC5-11Pr-DBDU-hLPpiPw28g&usqp=CAU",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Trung Tâm Asia",
+          "url": "https://coccoc.com/search?query=Asia&tbm=vid",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tMbfeLR5fQqaZD5z33GrWI2YV0pgNPPbz626ej59SfdU_qBmbiqEUZPCiqMskfl8Yio&usqp=CAU",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Asia Full trọn bộ",
+          "url": "https://coccoc.com/search?query=Asia+full+tron+bo&tbm=vid",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo-Asia.png/220px-Logo-Asia.png",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Bài Hát Để Đời",
+          "url": " https://coccoc.com/search?query=b%C3%A0i+h%C3%A1t+%C4%91%E1%BB%83+%C4%91%E1%BB%9Di&tbm=vid",
+          "image": "https://yt3.ggpht.com/a/AATXAJzUbGDOX_EF5AYNwMAoAcXzYb2NVgbNE4tt8Q=s288-c-k-c0xffffffff-no-rj-mo",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Nhạc Vàng",
+          "image": "https://yt3.ggpht.com/a/AGF-l79TIEELqFxrHG1kdXLZr_JtdsrcVL_K_TOILg=s900-c-k-c0xffffffff-no-rj-mo",
+          "url": "https://coccoc.com/search?query=nh%E1%BA%A1c+v%C3%A0ng&tbm=vid",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Nhạc Tuyển",
+          "image": "https://yt3.ggpht.com/a/AATXAJy7vsc6bTmwMPeAc4_bs9kLZDSIjgJ7-n5J9A=s288-c-k-c0xffffffff-no-rj-mo",
+          "url": "https://coccoc.com/search?query=nhac+tuyen+khong+quang+cao&tbm=vid",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Nhạc Bolero",
+          "url": "https://coccoc.com/search?query=nh%E1%BA%A1c+bolero+nh%E1%BA%A1c+tr%E1%BB%AF+t%C3%ACnh&tbm=vid",
+          "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062014/boleros.png",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Bolero Phòng Trà",
+          "url": "https://coccoc.com/search?query=Bolero+Ph%C3%B2ng+Tr%C3%A0&tbm=vid",
+          "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062014/boleros.png",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Karaoke",
+          "url": "https://coccoc.com/search?query=karaoke+bolero&tbm=vid",
+          "image": "https://image.shutterstock.com/image-vector/karaoke-party-banner-layout-vector-600w-1441019312.jpg",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Nhạc không lời",
+          "url": "https://coccoc.com/search?query=Nh%E1%BA%A1c+kh%C3%B4ng+l%E1%BB%9Di&tbm=vid",
+          "image": "https://pbs.twimg.com/profile_images/932792044342222850/-AzKkZub.jpg",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "name": "Nhạc Lossless",
+          "url": "https://coccoc.com/search?query=lossless+viet+nam&tbm=vid",
+          "image": "https://lossless.asia/wp-content/uploads/2017/03/logo.png",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        }
+      ]
+    }
+  ]
+}
+1
